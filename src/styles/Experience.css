@@ -1,0 +1,20 @@
+.experience-item {
+  padding: 0.75em 1.5em;
+}
+
+.job-title,
+.experience-date {
+  display: inline-block;
+}
+
+.experience-date {
+  float: right;
+}
+
+.text-link {
+  color: #e2e8f0;
+}
+
+.text-link:hover {
+  color: #57dacd;
+}

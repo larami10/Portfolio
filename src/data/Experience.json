@@ -1,0 +1,98 @@
+[
+  {
+    "jobNumber": "1",
+    "companyName": "Tyson Foods",
+    "jobTitle": "Developer Applications",
+    "jobStart": "2022",
+    "jobEnd": "2023",
+    "projectTitle": "Wunderbar Bologna Website Migration",
+    "projectDescription": [
+      {
+        "text": "My biggest contribution to the ",
+        "linkText": "Wunderbar Bologna website",
+        "linkUrl": "https://www.wunderbarbologna.com/"
+      },
+      {
+        "text": " was the ",
+        "linkText": "Recipes page.",
+        "linkUrl": "https://www.wunderbarbologna.com/recipes/"
+      },
+      {
+        "text": " Utilizing Gatsby's createPages API, I was able to dynamically create the 9 recipe pages using a page template component and conditional rendering to create responsive layouts based on the flagged featured recipe vs non-featured recipes."
+      }
+    ],
+    "techStack": [
+      "Agile/Scrum",
+      "Bootstrap",
+      "CSS",
+      "GatsbyJS",
+      "Git",
+      "GitLab",
+      "GraphQL",
+      "JavaScript",
+      "Jira",
+      "JSON",
+      "ReactJS"
+    ]
+  },
+  {
+    "jobNumber": "2",
+    "projectTitle": "Sara-Lee Deli Website Migration",
+    "projectDescription": [
+      {
+        "text": "I contributed by creating various components for the ",
+        "linkText": "Sara-Lee Deli website",
+        "linkUrl": "https://www.saraleedeli.com/"
+      },
+      {
+        "text": " but my biggest contribution was the ",
+        "linkText": "Inspirations page",
+        "linkUrl": "https://www.saraleedeli.com/inspirations/"
+      },
+      {
+        "text": " as it was a complete redesign. The original webpage had the cards in a masonry layout and I worked on the technical side to redesign the page into a responsive grid layout using the UX team's Figma designs. I also used Gatsby's createPages API along with a page component template and conditional rendering to dynamically create the 38 responsive blog post pages which were also a complete redesign as the original blog post pages did not have a set user friendly layout."
+      }
+    ],
+    "techStack": [
+      "Agile/Scrum",
+      "Bootstrap",
+      "CSS",
+      "GatsbyJS",
+      "Git",
+      "GitLab",
+      "GraphQL",
+      "JavaScript",
+      "Jira",
+      "JSON",
+      "ReactJS"
+    ]
+  },
+  {
+    "jobNumber": "3",
+    "companyName": "ASU Capstone Project",
+    "jobTitle": "Student",
+    "jobStart": "2020",
+    "jobEnd": "2021",
+    "projectTitle": "3-D Asteroid Viewer",
+    "projectDescription": [
+      {
+        "text": "Collaborated in a team of 5 to design and develop web application for ",
+        "linkText": "NASA’s Psyche Mission.",
+        "linkUrl": "https://psyche.asu.edu/get-involved/capstone-projects/capstone-projects-nickel-class/3d-asteroid-viewer/"
+      },
+      {
+        "text": " Participated and led sprint meetings, sponsor meetings and sprint retrospective meetings using Scrum. My biggest contribution was completing the sponsor's top requested feature by implementing ray casting to pull orbital data points onto the asteroid itself to allow users to view information regarding a selected data point (x, y, z asteroid coordinate)."
+      }
+    ],
+    "techStack": [
+      "Agile/Scrum",
+      "Git",
+      "GitHub",
+      "JavaScript",
+      "JSON",
+      "Python",
+      "ReactJS",
+      "ThreeJS"
+    ]
+  }
+]

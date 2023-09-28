@@ -1,0 +1,83 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+#sections {
+  padding-right: 6rem;
+
+  @media only screen and (max-width: 992px) {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
+
+#header,
+#about,
+#resume,
+#experience,
+#projects {
+  text-align: left;
+}
+
+#about,
+#experience,
+#resume,
+#projects {
+  margin-bottom: 4em;
+}
+
+#header,
+#about {
+  padding-top: 6rem;
+
+  @media only screen and (max-width: 992px) {
+    padding-top: 4rem;
+  }
+}
+
+#header {
+  position: fixed;
+  width: 25em;
+  padding-left: 6rem;
+
+  @media only screen and (max-width: 992px) {
+    position: relative;
+    padding-left: 3rem;
+  }
+}
+
+.resume-link {
+  display: flex;
+  align-items: center;
+}
+
+.resume-pdf {
+  display: inline-block;
+  color: #e2e8f0;
+  font-weight: 600;
+  border-bottom: 1px solid transparent;
+  margin: 0;
+}
+
+.resume-pdf:hover {
+  color: #e2e8f0;
+  border-color: #57dacd;
+}
+
+.bi-arrow-right {
+  display: inline-block;
+  color: #e2e8f0;
+  font-weight: 600;
+  margin-left: 0.25em;
+}
+
+.arrow-transition {
+  transform: translateX(10px);
+}
+
+p {
+  color: #94a3b8;
+}

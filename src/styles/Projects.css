@@ -1,0 +1,26 @@
+.project-link {
+  color: #e2e8f0;
+  padding: 0.75em 1.5em;
+}
+
+.project-link:hover {
+  background-color: rgba(30, 41, 59, 0.5);
+  color: #57dacd;
+  border-radius: 0.25rem;
+}
+
+.project-image-container {
+  padding: 0.2em 0 1em 0;
+}
+
+.project-image-container,
+.project-image {
+  border-radius: 0.25rem;
+  border: 0 solid #e5e7eb;
+}
+
+.techStack {
+  @media only screen and (max-width: 992px) {
+    text-align: center;
+  }
+}

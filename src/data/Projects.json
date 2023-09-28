@@ -1,0 +1,43 @@
+[
+  {
+    "projectImage": "src/assets/PokeAPI-GatsbyJS.jpg",
+    "projectImageAlt": "PokeAPI GatsbyJS Project",
+    "projectTitle": "PokeAPI Pokemon Database",
+    "projectLink": "https://pokeapigatsbyjs.netlify.app/",
+    "projectDescription": "PokeAPI, GraphQL, gatsby-node.js, and 2 template component files are used for the creation of 11 Pokedex pages (1 National Pokedex and 10 regional Pokedex pages) and 1,010 individual Pokemon pages for this Pokemon web database.",
+    "techStack": [
+      "Bootstrap",
+      "CSS",
+      "Charts.css",
+      "GatsbyJS",
+      "GraphQL",
+      "JavaScript",
+      "Netlify",
+      "PokeAPI"
+    ]
+  },
+  {
+    "projectImage": "src/assets/Avengers Matching Game.jpg",
+    "projectImageAlt": "Avengers Matching Game Project",
+    "projectTitle": "Avengers Matching Game",
+    "projectLink": "https://avengers-matching-game.web.app/",
+    "projectDescription": "A card matching game with a Marvel Avengers theme.",
+    "techStack": [
+      "Animate.css",
+      "CSS",
+      "Firebase",
+      "HTML",
+      "JavaScript",
+      "React",
+      "Underscore.js"
+    ]
+  },
+  {
+    "projectImage": "src/assets/Periodic Table Game.jpg",
+    "projectImageAlt": "Periodic Table Game",
+    "projectTitle": "Periodic Table Game",
+    "projectLink": "https://periodic-table-game-react.web.app/",
+    "projectDescription": "A guessing game based on the Periodic Table of elements.",
+    "techStack": ["Bootstrap", "CSS", "Firebase", "JavaScript", "React"]
+  }
+]
