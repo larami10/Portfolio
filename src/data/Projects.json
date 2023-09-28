@@ -1,6 +1,6 @@
 [
   {
-    "projectImage": "src/assets/PokeAPI-GatsbyJS.jpg",
+    "projectImage": "/assets/PokeAPI-GatsbyJS.jpg",
     "projectImageAlt": "PokeAPI GatsbyJS Project",
     "projectTitle": "PokeAPI Pokemon Database",
     "projectLink": "https://pokeapigatsbyjs.netlify.app/",
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "projectImage": "src/assets/Avengers Matching Game.jpg",
+    "projectImage": "/assets/Avengers Matching Game.jpg",
     "projectImageAlt": "Avengers Matching Game Project",
     "projectTitle": "Avengers Matching Game",
     "projectLink": "https://avengers-matching-game.web.app/",
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "projectImage": "src/assets/Periodic Table Game.jpg",
+    "projectImage": "/assets/Periodic Table Game.jpg",
     "projectImageAlt": "Periodic Table Game",
     "projectTitle": "Periodic Table Game",
     "projectLink": "https://periodic-table-game-react.web.app/",
